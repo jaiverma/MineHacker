@@ -1,0 +1,10 @@
+Package: com.jaiverma.minefinder
+Name: minefinder
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Jai  Verma
+Author: Jai  Verma
+Section: Tweaks
+Version: 0.0.1-5+debug
+Installed-Size: 120
